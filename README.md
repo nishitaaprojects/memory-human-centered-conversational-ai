@@ -24,3 +24,6 @@ A lightweight emotion or sentiment analysis component assesses the tone of user 
 - Evaluation of user trust over longer interactions.
 - Refinement of memory retention and forgetting policies.
 - Exploration of human-in-the-loop controls.
+## Architecture Diagram
+
+![Architecture Diagram](architecture_diagram)
