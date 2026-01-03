@@ -26,4 +26,4 @@ A lightweight emotion or sentiment analysis component assesses the tone of user 
 - Exploration of human-in-the-loop controls.
 ## Architecture Diagram
 
-![Architecture Diagram](architecture_diagram)
+![Architecture Diagram](docs/architecture_diagram.png)
