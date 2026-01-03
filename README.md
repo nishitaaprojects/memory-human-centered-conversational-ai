@@ -39,9 +39,9 @@ The system identifies emotional vulnerability and contextual uncertainty.
 This input reflects a temporary mental state, not a stable user preference or factual identity.
 
 ## Memory Decision
-## ❌ Do not store verbatim
+❌ Do not store verbatim
 
-## ✅ Optionally retain an abstracted, time-limited signal
+✅ Optionally retain an abstracted, time-limited signal
 (e.g., “User has previously expressed career-related uncertainty”)
 
 ## Human-Centered Rationale
