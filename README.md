@@ -27,22 +27,23 @@ A lightweight emotion or sentiment analysis component assesses the tone of user 
 ## Architecture Diagram
 
 ![Architecture Diagram](docs/architecture_diagram.png)
-Example Interaction: Context-Aware Memory Decision
 
-User Input
+## Example Interaction: Context-Aware Memory Decision
+
+## User Input
 
 “I’m feeling overwhelmed lately and unsure if I’m making the right career decisions.”
 
-System Interpretation
+## System Interpretation
 The system identifies emotional vulnerability and contextual uncertainty.
 This input reflects a temporary mental state, not a stable user preference or factual identity.
 
-Memory Decision
+## Memory Decision
 ❌ Do not store verbatim
 ✅ Optionally retain an abstracted, time-limited signal
 (e.g., “User has previously expressed career-related uncertainty”)
 
-Human-Centered Rationale
+## Human-Centered Rationale
 Storing raw emotional disclosures risks long-term profiling and misrepresentation of the user’s identity.
 Forgetting, or abstracting such inputs, respects the evolving nature of human experience and prevents the system from anchoring future responses to a moment of vulnerability.
 
